@@ -1,7 +1,7 @@
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div>
     <h2>💫 About Me:</h2>
-    <p align="left">📝 I'm currently working on Pytorch based Object Recognition problem.<br>💻 I'm currently learning MERN Stack.<br>💬 Ask me anything about Deep Learning Technologies.</p>
+    <p align="left">📝 I'm currently working on Object Recognition problem.<br>💻 I'm currently learning MERN Stack.<br>💬 Ask me anything about Deep Learning Technologies.</p>
   </div>
 
   <div>
