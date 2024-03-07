@@ -2,18 +2,9 @@
 <h3 align="center">A passionate MERN Stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qasimbinsaeed1&label=Profile%20views&color=0e75b6&style=flat" alt="qasimbinsaeed1" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qasimbinsaeed1&show_icons=true&locale=en" alt="qasimbinsaeed1" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qasimbinsaeed1" alt="qasimbinsaeed1" /></a> </p>
-
-- 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js**
-
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/qasimbinsaeed/home](https://sites.google.com/view/qasimbinsaeed/home)
-
-- 📝 I usually write articles on [https://medium.com/@qasimsaeed590](https://medium.com/@qasimsaeed590)
-
-- 📫 How to reach me **qasimsaeed590@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-farGIWM_aysmFJAcKJKrciqGg_zIiMl/view](https://drive.google.com/file/d/1-farGIWM_aysmFJAcKJKrciqGg_zIiMl/view)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qasimbinsaeed1&" alt="qasimbinsaeed1" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qasimbinsaeed1&show_icons=true&locale=en&layout=compact" alt="qasimbinsaeed1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qasimbinsaeed1&show_icons=true&locale=en" alt="qasimbinsaeed1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qasimbinsaeed1&" alt="qasimbinsaeed1" /></p>
