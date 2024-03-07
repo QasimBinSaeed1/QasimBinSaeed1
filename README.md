@@ -1,9 +1,14 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimBinSaeed1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="45%"/>
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <h2>💫 About Me:</h2>
+    <p align="left">📝 I'm currently working on Pytorch based Object Recognition problem.<br>💻 I'm currently learning MERN Stack.<br>💬 Ask me anything about Deep Learning Technologies.</p>
+  </div>
 
-  # 💫 About Me:
-  <p align="left">📝 I'm currently working on Pytorch based Object Recognition problem.<br>💻 I'm currently learning MERN Stack.<br>💬 Ask me anything about Deep Learning Technologies.</p>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimBinSaeed1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  </div>
 </div>
+
 
 
 # 🌐 Socials:
