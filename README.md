@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Pytorch based Object Recognition problem.<br>I'm currently learning MERN Stack.<br>Ask me anything Deep Learning Technologies.
+📝 I'm currently working on Pytorch based Object Recognition problem.<br>💻 I'm currently learning MERN Stack.<br>💬 Ask me anything Deep Learning Technologies.
 
 
 ## 🌐 Socials:
